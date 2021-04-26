@@ -24,21 +24,15 @@
 .item1 {
     width: 350px;
     margin-right: 30px;
-    position: relative;
 }
 
 .item2{
     width: 350px;
     margin-right: 30px;
-    position: relative;
 }
 
 .item3{
     width: 350px;
-}
-
-.item6{
-    position: relative;
 }
 
 .img1{
@@ -47,6 +41,7 @@
     background-size: contain;
     width: 350px;
     height: 450px;
+    position: relative;
 }
 
 .img2{
@@ -55,6 +50,7 @@
     background-size: contain;
     width: 350px;
     height: 450px;
+    position: relative;
 }
 
 .img3{
@@ -63,6 +59,7 @@
     background-size: contain;
     width: 350px;
     height: 450px;
+    position: relative;
 }
 
 .heart{
@@ -101,6 +98,21 @@
     line-height: 30px;
 }
 
+.label{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.price {
+    color: red;
+    font-size: 20px;
+}
+
+.promo {
+    background-color: rgb(49, 151, 49);
+    padding-left: 5px;
+}
+
 .sconto{
     position: absolute;
     bottom: 10px;
@@ -120,6 +132,7 @@
     background-size: contain;
     width: 350px;
     height: 450px;
+    position: relative;
 }
 
 .img5 {
@@ -128,6 +141,7 @@
     background-size: contain;
     width: 350px;
     height: 450px;
+    position: relative;
 }
 .img6 {
     background: url(../img/6.webp);
@@ -135,6 +149,7 @@
     background-size: contain;
     width: 350px;
     height: 450px;
+    position: relative;
 }
 
 /*hoover*/
