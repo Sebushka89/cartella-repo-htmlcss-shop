@@ -136,3 +136,39 @@
     width: 350px;
     height: 450px;
 }
+
+/*hoover*/
+
+.img1:hover{
+    background: url(../img/1-hover.webp);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.img2:hover{
+    background: url(../img/2-hover.webp);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.img3:hover{
+    background: url(../img/3-hover.webp);
+    background-size: contain;
+    background-position: bottom;
+}
+.img4:hover{
+    background: url(../img/4-hover.webp);
+    background-size: contain;
+    background-position: center;
+}
+.img5:hover{
+    background: url(../img/5-hover.webp);
+    background-size: contain;
+    background-position: center;
+}
+.img6:hover{
+    background: url(../img/6-hover.webp);
+    background-size: contain;
+    background-position: center;
+}
